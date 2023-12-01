@@ -1,4 +1,4 @@
-## Coding# Coding challenge - QIAGEN
+# Coding challenge - QIAGEN
 
 ### Converter from FASTQ to FASTA
 This application converts sequences from FASTQ to FASTA and inserts the output in a file called `four_reads.fasta`.  
